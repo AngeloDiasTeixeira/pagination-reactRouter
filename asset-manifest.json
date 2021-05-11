@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pagination/static/css/main.c4e260cc.chunk.css",
-    "main.js": "/pagination/static/js/main.ead41eba.chunk.js",
-    "main.js.map": "/pagination/static/js/main.ead41eba.chunk.js.map",
-    "runtime-main.js": "/pagination/static/js/runtime-main.6ab55f06.js",
-    "runtime-main.js.map": "/pagination/static/js/runtime-main.6ab55f06.js.map",
-    "static/js/2.66461adb.chunk.js": "/pagination/static/js/2.66461adb.chunk.js",
-    "static/js/2.66461adb.chunk.js.map": "/pagination/static/js/2.66461adb.chunk.js.map",
-    "index.html": "/pagination/index.html",
-    "static/css/main.c4e260cc.chunk.css.map": "/pagination/static/css/main.c4e260cc.chunk.css.map",
-    "static/js/2.66461adb.chunk.js.LICENSE.txt": "/pagination/static/js/2.66461adb.chunk.js.LICENSE.txt"
+    "main.css": "/pagination-reactRouter/static/css/main.c4e260cc.chunk.css",
+    "main.js": "/pagination-reactRouter/static/js/main.ead41eba.chunk.js",
+    "main.js.map": "/pagination-reactRouter/static/js/main.ead41eba.chunk.js.map",
+    "runtime-main.js": "/pagination-reactRouter/static/js/runtime-main.de342024.js",
+    "runtime-main.js.map": "/pagination-reactRouter/static/js/runtime-main.de342024.js.map",
+    "static/js/2.66461adb.chunk.js": "/pagination-reactRouter/static/js/2.66461adb.chunk.js",
+    "static/js/2.66461adb.chunk.js.map": "/pagination-reactRouter/static/js/2.66461adb.chunk.js.map",
+    "index.html": "/pagination-reactRouter/index.html",
+    "static/css/main.c4e260cc.chunk.css.map": "/pagination-reactRouter/static/css/main.c4e260cc.chunk.css.map",
+    "static/js/2.66461adb.chunk.js.LICENSE.txt": "/pagination-reactRouter/static/js/2.66461adb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ab55f06.js",
+    "static/js/runtime-main.de342024.js",
     "static/js/2.66461adb.chunk.js",
     "static/css/main.c4e260cc.chunk.css",
     "static/js/main.ead41eba.chunk.js"
