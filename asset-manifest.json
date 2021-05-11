@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pagination-reactRouter/static/css/main.c4e260cc.chunk.css",
-    "main.js": "/pagination-reactRouter/static/js/main.ead41eba.chunk.js",
-    "main.js.map": "/pagination-reactRouter/static/js/main.ead41eba.chunk.js.map",
+    "main.js": "/pagination-reactRouter/static/js/main.ad4877f3.chunk.js",
+    "main.js.map": "/pagination-reactRouter/static/js/main.ad4877f3.chunk.js.map",
     "runtime-main.js": "/pagination-reactRouter/static/js/runtime-main.de342024.js",
     "runtime-main.js.map": "/pagination-reactRouter/static/js/runtime-main.de342024.js.map",
     "static/js/2.66461adb.chunk.js": "/pagination-reactRouter/static/js/2.66461adb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.de342024.js",
     "static/js/2.66461adb.chunk.js",
     "static/css/main.c4e260cc.chunk.css",
-    "static/js/main.ead41eba.chunk.js"
+    "static/js/main.ad4877f3.chunk.js"
   ]
 }
