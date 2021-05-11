@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 15px 0;
+  text-align: center;
+}
+
+.App {
+  height: 100vh;
+  position: relative;
+  border: 3px solid white;
+}
+
+.posts {
+  margin: 0 50px;
+  font-size: 0.9em;
+  font-weight: 600;
+  max-height: 450px;
+  background-color: gray;
+  margin-bottom: 10px;
+  overflow-y: auto;
+}
+
+.posts div {
+  margin-bottom: 15px;
+}
+
+.pageNumberButton {
+  width: 2em;
+  height: 2em;
+  border: 1px solid black;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(127, 127, 199);
+  padding: 25px 23px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+  font-size: 1.1em;
+}
+
+a:active {
+  color: red;
+}
+
+.active {
+  color: black;
+}
+
+.pagination li {
+  cursor: pointer;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: absolute;
+  bottom: 0;
+  
+  left: 0;
+  right: 0;
+}
+
+.posts > div:first-child {
+  background-color: gray;
+}
+
+.posts > div:first-child > h2 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+form input, button {
+  padding: 7px;
+  margin-left: 5px;
+}
